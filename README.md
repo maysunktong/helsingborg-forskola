@@ -1,5 +1,6 @@
-# Cloned Page - Helsingborg.se / forskola och utbildning
-The test page using HTML, vanilla CSS and JS
+# Helsingborg.se / forskola och utbildning
+A cloned page using HTML, vanilla CSS and JS. Links do not work.
+
 Utilities:
 1. Accordion bar
 2. Search bar
